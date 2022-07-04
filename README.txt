@@ -8,3 +8,5 @@ source venv/bin/activate
 pip install staticjinja
 staticjinja build
 ```
+
+Website is hosted on GitHub Pages on https://matt.documatt.com.
