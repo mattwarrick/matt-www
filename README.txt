@@ -9,4 +9,4 @@ pip install staticjinja
 staticjinja build
 ```
 
-Website is hosted on GitHub Pages on https://matt.documatt.com.
+Website is hosted on GitHub Pages on https://matt.documatt.com. To publish, just `git push origin HEAD`.
